@@ -19,6 +19,9 @@ Small Unity (C#) VR interaction pack created for teaching/demo purposes.
 - Screenshots:
 <img width="1601" height="874" alt="image" src="https://github.com/user-attachments/assets/8e637846-d232-4622-8f12-d20e7bd175b5" />
 
+<img width="1610" height="865" alt="image" src="https://github.com/user-attachments/assets/9b844604-e380-4fe9-917e-ab6462910ce0" />
+
+
 ## Notes
 This repository is meant as a compact portfolio showcase. Some assets may be omitted to keep the repo lightweight.
 
