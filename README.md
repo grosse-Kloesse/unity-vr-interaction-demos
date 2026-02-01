@@ -17,9 +17,8 @@ Small Unity (C#) VR interaction pack created for teaching/demo purposes.
 
 ## Media
 - Screenshots:
-<img width="1601" height="874" alt="image" src="https://github.com/user-attachments/assets/8e637846-d232-4622-8f12-d20e7bd175b5" />
-
-<img width="1610" height="865" alt="image" src="https://github.com/user-attachments/assets/9b844604-e380-4fe9-917e-ab6462910ce0" />
+![VR light control](Media/vr-light-control.png)
+![VR ordering UI](Media/vr-ordering-ui.png)
 
 ## Industrial Background (Thesis)
 Built a 3D model of a chemical plant and evaluated observability across different VR setups (e.g., CAVE vs. standalone headset), deriving guidelines for visualization and platform trade-offs.
