@@ -18,6 +18,7 @@ Small Unity (C#) VR interaction pack created for teaching/demo purposes.
 ## Media
 - Screenshots:
 ![VR light control](Media/vr-light-control.png)
+
 ![VR ordering UI](Media/vr-ordering-ui.png)
 
 ## Industrial Background (Thesis)
