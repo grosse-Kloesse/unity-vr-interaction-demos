@@ -1,8 +1,9 @@
 # Unity VR Interaction Demos
 
-Small Unity (C#) VR interaction pack created for teaching/demo purposes.
+A small Unity (C#) VR interaction pack created for teaching/demo purposes.  
+Focus: reusable interaction modules + UI-driven workflows.
 
-## Modules
+## Highlights
 - **Surgical Light Control**: brightness + color temperature adjustment via UI sliders
 - **Smart Door Interactions**:
   - proximity sensor auto-open
@@ -11,22 +12,22 @@ Small Unity (C#) VR interaction pack created for teaching/demo purposes.
 - **Hospital Bed**: button-controlled backrest elevation (smooth motion + limits)
 - **Ordering UI**: select item + quantity +/- + confirm → spawn & drop physical objects
 
-## Tech
+## Tech Stack
 - Unity, C#
-- XR: (XR Interaction Toolkit / OpenXR / SteamVR)
+- XR: (add what you used: XR Interaction Toolkit / OpenXR / SteamVR)
 
-## Media
-- Screenshots:
+## Screenshots
+### Surgical Light Control
 ![VR light control](Media/vr-light-control.png)
 
+### Ordering UI → Object Spawn
 ![VR ordering UI](Media/vr-ordering-ui.png)
 
 ## Industrial Background (Thesis)
-Built a 3D model of a chemical plant and evaluated observability across different VR setups (e.g., CAVE vs. standalone headset), deriving guidelines for visualization and platform trade-offs.
+Built a 3D model of a chemical plant and evaluated observability across different VR setups (e.g., CAVE vs. Quest),
+deriving guidelines for visualization and platform-specific trade-offs.
 
 ![Chemical plant model](Media/chemical-plant-model.png)
 
-
 ## Notes
-This repository is meant as a compact portfolio showcase. Some assets may be omitted to keep the repo lightweight.
-
+This repository is intended as a compact portfolio showcase. Some large assets may be omitted to keep it lightweight.
