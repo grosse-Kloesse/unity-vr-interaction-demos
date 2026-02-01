@@ -14,7 +14,7 @@ Focus: reusable interaction modules + UI-driven workflows.
 
 ## Tech Stack
 - Unity, C#
-- XR: (add what you used: XR Interaction Toolkit / OpenXR / SteamVR)
+- XR:  XR Interaction Toolkit / OpenXR / SteamVR
 
 ## Screenshots
 ### Surgical Light Control
