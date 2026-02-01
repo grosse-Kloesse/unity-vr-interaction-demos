@@ -24,8 +24,8 @@ Small Unity (C#) VR interaction pack created for teaching/demo purposes.
 ## Industrial Background (Thesis)
 Built a 3D model of a chemical plant and evaluated observability across different VR setups (e.g., CAVE vs. standalone headset), deriving guidelines for visualization and platform trade-offs.
 
-Chemical plant model
-(Media/chemical-plant-model.png)
+![Chemical plant model](Media/chemical-plant-model.png)
+
 
 ## Notes
 This repository is meant as a compact portfolio showcase. Some assets may be omitted to keep the repo lightweight.
